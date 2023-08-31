@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Alura MIDI</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css?family=Monstserrat:wght@500;600&display=swap"
+
+    <link rel="icon" type="image/png" href="images/bateria.png">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/estilos.css">
+
+</head>
+<body>
+
+    <h1>Alura MIDI</h1>
+    <section class="teclado">
+        <button class="tecla tecla_pom">
+        <button class="tecla tecla_clap"
+        <button class="tecla tecla_tim"   
+         
+        <button class="tecla tecla_puff"
+        <button class="tecla tecla_splash"
+        <button class="tecla tecla_toim"
+
+        <button class="tecla tecla_psh"
+        <button class="tecla tecla_tic"
+        <button class="tecla tecla_tom"
